@@ -4,7 +4,8 @@ Getting Started 🚀 To get started with the projects in this repository, you'll
 
 Projects Here's a list of projects that you can find in this repository:
 
-Project 1:Simple_Web_Page: A simple landing page done completely using Bootstrap and HTML helped me solidify my understanding of Bootstrap concepts.
+Project 1:Simple_Web_Page: A simple landing page done completely using Bootstrap and HTML. This project helped me solidify my understanding of Bootstrap concepts.
+Project 2:Job-Application-form:  This project is a web-based job application form. The form allows individuals to apply for a job by providing their personal information and relevant details, I have only used HTML and CSS.
 
 Contributing 🛂 This repository is created for learning purposes. However, if you have any suggestions or improvements for any of the projects, feel free to submit a pull request.
 
