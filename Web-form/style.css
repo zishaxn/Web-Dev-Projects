@@ -48,8 +48,8 @@ label{
 
 input,
 select,
-textarea
-{
+textarea{
+    background-color: rgb(243, 239, 239);
     padding: 6px 10px;
     border: 1px solid #ccc;
     border-radius: 5px;
