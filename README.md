@@ -4,7 +4,7 @@ Getting Started 🚀 To get started with the projects in this repository, you'll
 
 Projects Here's a list of projects that you can find in this repository:
 
-Project 1: A Simple Web Portfolio Using Html and CSS.
+Project 1:Simple_Web_Page: A simple landing page done completely using Bootstrap and HTML helped me solidify my understanding of Bootstrap concepts.
 
 Contributing 🛂 This repository is created for learning purposes. However, if you have any suggestions or improvements for any of the projects, feel free to submit a pull request.
 
